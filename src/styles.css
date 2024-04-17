@@ -1,0 +1,13 @@
+h1{
+    color: black;
+}
+body {
+    background-color:#E0D796;
+}
+.fixed-image-height {
+    height: 200px;
+    width: auto; 
+  }
+  .custom-card-background {
+    background-color: white; 
+  }
